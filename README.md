@@ -1,11 +1,5 @@
 ## Hi there 👋 I'm Emre
 
-Final year PhD candidate in high-energy astrophysics, working at the intersection of 
-statistical modeling, large-scale simulations, and data analysis. I work primarily 
-in Python on problems involving noisy data, selection effects,
-and inference under uncertainty. My research focuses on gamma-ray burst (GRB)
-populations and their central engine, with applications of Bayesian inference,
-Monte Carlo methods, and physical modeling.
 
 
 
